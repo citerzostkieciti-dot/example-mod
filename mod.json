@@ -1,9 +1,10 @@
 {
     "geode": "2.0.0",
     "version": "v1.0.0",
-    "id": "citerz.my_bot",
+    "id": "citerz.test_bot",
     "name": "My Bot",
     "developer": "Citerz",
     "description": "Test mod"
 }
+
 
