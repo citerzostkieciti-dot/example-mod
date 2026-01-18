@@ -1,17 +1,9 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.20.0"
-	}
+    "geode": "2.0.0",
+    "version": "v1.0.0",
+    "id": "citerz.my_bot",
+    "name": "My Bot",
+    "developer": "Citerz",
+    "description": "Test mod"
 }
+
